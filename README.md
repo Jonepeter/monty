@@ -1,4 +1,3 @@
 
-        C Queue and Stack Implementations
-        =================================
-1. 
+#         C Queue and Stack Implementations
+          ================================= 
