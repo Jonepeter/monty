@@ -26,7 +26,7 @@ stack_t *tmp = *st;
 }
 
 /**
- * rotl - divides the top two elements of the stack.
+ * rotl -  divides the top two elements of the stack.
  * @st: first node of the list.
  * @i: lenght of the list.
  *
