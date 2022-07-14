@@ -1,3 +1,1 @@
-
-#         C Queue and Stack Implementations
-          ================================= 
+# C - Stacks, Queues - LIFO, FIFO
