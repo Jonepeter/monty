@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * divy - divides the top two elements of the stack.
+ * div - divides the top two elements of the stack.
  * @st: first node of the list.
  * @i: lenght of the list.
  *
