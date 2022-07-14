@@ -1,5 +1,4 @@
 #include "monty.h"
-
 /**
  * error_push - print message error and free heap.
  * @s: message to print.
