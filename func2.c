@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * add - dds the top two elements of the stack.
+ * add - adds the top two elements of the stack.
  * @st: first node of the list.
  * @i: lenght of the list.
  *
